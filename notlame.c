@@ -4,7 +4,7 @@
 #include <stdio.h>
 
 int main() {
-    char *adjective = "lame";
+    char *adjective = "meme";
     printf("This hackathon is %s!\n", adjective);
 
     return 0;
